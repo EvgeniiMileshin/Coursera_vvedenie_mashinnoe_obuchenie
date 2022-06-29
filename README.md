@@ -8,4 +8,4 @@
 | [2. Важность признаков](https://github.com/EvgeniiMileshin/Coursera_vvedenie_mashinnoe_obuchenie/tree/main/02_Важность%20признаков)                           | Данное задание направлено на знакомство c решающими деревьями |*Numpy, Pandas, Sklearn*|
 | [3. Выбор числа соседий](https://github.com/EvgeniiMileshin/Coursera_vvedenie_mashinnoe_obuchenie/tree/main/03_Выбор%20числа%20соседей)                       | Данное задание посвящено подбору числа соседей в методе kNN   | *Numpy, Pandas, Sklearn*|
 |[4. Выбор метрики](https://github.com/EvgeniiMileshin/Coursera_vvedenie_mashinnoe_obuchenie/tree/main/04_Выбор%20метрики)|Данное задание посвящено выбору наилучшей метрики для конкретной задачи|*Numpy, Pandas, Sklearn*|
-||||
+|[5. Нормализация признаков](https://github.com/EvgeniiMileshin/Coursera_vvedenie_mashinnoe_obuchenie/tree/main/05_Нормализация%20признаков)|Данное задание основано на материалах лекции по линейным методам классификации|*Numpy, Pandas, Sklearn*|
