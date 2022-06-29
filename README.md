@@ -15,4 +15,4 @@
 |[9. Метрики качества классификации](https://github.com/EvgeniiMileshin/Coursera_vvedenie_mashinnoe_obuchenie/tree/main/09_Метрики%20качества%20классификации)|Данное задание основано на материалах лекций по метрикам качества классификации|*Numpy, Pandas, Sklearn*|
 |[10. Линейная регрессия: прогноз оклада по описанию вакансии](https://github.com/EvgeniiMileshin/Coursera_vvedenie_mashinnoe_obuchenie/tree/main/10_Линейная%20регрессия)|Данное задание посвящено предсказанию оклада, исходя из описания вакансии|*Numpy, Pandas, Sklearn*|
 |[11. Составление фондового индекса](https://github.com/EvgeniiMileshin/Coursera_vvedenie_mashinnoe_obuchenie/tree/main/11_Составление%20фондового%20индекса)|Данное задание основано на материалах лекций по методу главных компонент и посвящено знакомству с методом|*Numpy, Pandas, Sklearn*|
-|[12. ]()|
+|[12. Размер случайного леса](https://github.com/EvgeniiMileshin/Coursera_vvedenie_mashinnoe_obuchenie/tree/main/12_Размер%20случайного%20леса)|Данное задание направлено на знакомство со случайными лесами (Random Forests)|*Numpy, Pandas, Sklearn, Matplotlib*|
